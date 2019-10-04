@@ -1,4 +1,4 @@
-#Euclidean algorithm
+//Euclidean algorithm
 
 int gcd(int a,int b)
 { //반복문을 이용한 방법
